@@ -9,4 +9,4 @@ int main() {
 }
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexcat6&layout=compact&hide_title=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexcat6&layout=compact&hide_title=true&theme=dark)]()
