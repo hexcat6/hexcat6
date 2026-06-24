@@ -1,4 +1,4 @@
-Hi, im a QUT student studying information technology.\
+Hi, I'm a 2nd year QUT student studying information technology.\
 I dabble in programming here and there. I only make things I find interesting or useful.\
 Here you can find my collection of hobby projects and what languages I most prominently use.
 
